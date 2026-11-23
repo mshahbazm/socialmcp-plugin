@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "socialmcp": {
+      "type": "http",
+      "url": "https://getsocialmcp.com/mcp"
+    }
+  }
+}
