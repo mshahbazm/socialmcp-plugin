@@ -10,7 +10,7 @@
   "homepage": "https://getsocialmcp.com",
   "repository": "https://github.com/mshahbazm/socialmcp-plugin",
   "license": "MIT",
-  "logo": "assets/logo.png",
+  "logo": "assets/logo.svg",
   "keywords": ["socialmcp", "social media", "scheduling", "publishing", "content calendar", "x", "twitter", "linkedin", "build in public", "mcp"],
   "mcpServers": "./mcp.json"
 }
