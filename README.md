@@ -11,6 +11,7 @@ Ask your agent to post what you shipped today, turn a changelog into an X thread
 
 Without the plugin, add the server to `~/.cursor/mcp.json` yourself:
 
+<!-- commands:cursor.config -->
 ```json
 {
   "mcpServers": {
@@ -21,6 +22,7 @@ Without the plugin, add the server to `~/.cursor/mcp.json` yourself:
   }
 }
 ```
+<!-- /commands -->
 
 ## Sign-in
 
